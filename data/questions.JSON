@@ -1,0 +1,62 @@
+[
+    {
+        "questionText": "I came ___ America",
+        "options": ["from", "at", "in", "on"],
+        "correctAnswer": 0,
+        "language": "english"
+    },
+    {
+        "questionText": "I ___ cold",
+        "options": ["am", "have", "had", "is"],
+        "correctAnswer": 0,
+        "language": "english"
+    },
+    {
+        "questionText": "___ car is very old fashioned",
+        "options": ["Fatima's", "Fatima is", "Fatimas", "Fatimas'"],
+        "correctAnswer": 0,
+        "language": "english"
+    },
+    {
+        "questionText": "I speak English but he ___",
+        "options": ["doesn't speaks", "doesn't speak", "speaks", "don't speak"],
+        "correctAnswer": 1,
+        "language": "english"
+    },
+    {
+        "questionText": "Nowadays everyone ___ internet",
+        "options": ["had used", "uses", "used", "use"],
+        "correctAnswer": 1,
+        "language": "english"
+    },
+    {
+        "questionText": "निम्नलिखित में से सही शब्द-शुद्धि का चुनाव कीजिए।",
+        "options": ["मृत्यूंजय", "मित्यन्जय", "मृत्युंजय", "मृत्युन्जय"],
+        "correctAnswer": 2,
+        "language": "hindi"
+    },
+    {
+        "questionText": "निम्नलिखित में से सही शब्द-शुद्धि का चुनाव कीजिए।",
+        "options": ["निंदषन", "निदर्षन", "निर्दषन", "निदषर्न"],
+        "correctAnswer": 1,
+        "language": "hindi"
+    },
+    {
+        "questionText": "निम्नलिखित में से सही शब्द-शुद्धि का चुनाव कीजिए।",
+        "options": ["अस्प्रस्यता", "अस्पृष्यता", "अस्प्रष्यता", "अस्पृष्यता"],
+        "correctAnswer": 1,
+        "language": "hindi"
+    },
+    {
+        "questionText": "निम्नलिखित में से सही शब्द-शुद्धि का चुनाव कीजिए।",
+        "options": ["क्यारी", "कीयारि", "कियारी", "कीयारी"],
+        "correctAnswer": 1,
+        "language": "hindi"
+    },
+    {
+        "questionText": "निम्नलिखित में से सही शब्द-शुद्धि का चुनाव कीजिए।",
+        "options": ["प्रतिटा", "प्रतिष्ठा", "परतिष्ठा", "परतिष्टा"],
+        "correctAnswer": 1,
+        "language": "hindi"
+    }
+]
